@@ -1,1 +1,1 @@
-this is my second file in Git repo.
+This is my second file in Git.
